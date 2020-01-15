@@ -1,0 +1,58 @@
+.boxLog {
+  background-color: darkgrey;
+  width: 300px;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  left: 50%;
+  color: white;
+}
+
+.boxLog h1{
+  float: left;
+  font-size: 50px;
+  margin: 50px;
+  padding: 13px 0;
+}
+
+.textbox {
+  width: 100%;
+  overflow: hidden;
+  font-size: 20px;
+  padding: 8px 0;
+  margin: 8px 0;
+  border-bottom: 1px solid black;
+}
+.textbox input{
+  border: none;
+  outline: none;
+  background:none;
+  color: black;
+  font-size: 18px;
+  width: 80%;
+  float: left;
+  margin: 10px;
+}
+.btn{
+  width: 100%;
+  background-color: black;
+  color: white;
+  padding: 5px;
+  font-size: 18px;
+  margin: 12px 0;
+}
+
+.vypis {
+  color: red;
+}
+.vypis2 {
+  color: green;
+  font-size: 150px;
+}
+
+img{
+  padding: 25px;
+  display: block;
+  margin: auto;
+  padding-bottom: 15px;
+}
